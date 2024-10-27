@@ -2,7 +2,7 @@
 
 
 
-## ![FR](https://img.icons8.com/color/24/000000/france.png) French Version
+## ![FR](https://img.icons8.com/color/48/000000/france.png) French Version
 
 # Steam Library Exporter
 
@@ -85,7 +85,7 @@ Cliquez sur Exporter ! 🚀 - Le programme génère un fichier CSV avec les info
 Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
 
 
-## ![GB](https://img.icons8.com/color/24/000000/great-britain.png) English Version
+## ![GB](https://img.icons8.com/color/48/000000/great-britain.png) English Version
 
 # Steam Library Exporter
 
