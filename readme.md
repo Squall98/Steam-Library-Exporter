@@ -18,7 +18,7 @@
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Configuration](#configuration)
-- [Comment ça marche ?](#comment-ca-marche-)
+- [Comment ça marche ?](#comment-ca-marche)
 - [Licence](#licence)
 
 ## Fonctionnalités
@@ -73,7 +73,7 @@ api_key = VOTRE_CLE_API
 steamid = VOTRE_STEAMID
 ```
 
-## Comment ça marche ?
+## Comment ca marche
 
 Entrez votre clé API 🔑 - Pour se connecter à Steam.
 Choisissez les champs à exporter 📝 - Personnalisez les informations récupérées.
