@@ -1,4 +1,6 @@
-French version : 
+[🇫🇷 French Version](#french-version) | [🇬🇧 English Version](#english-version)
+
+## 🇫🇷 French Version
 
 # Steam Library Exporter
 
@@ -9,16 +11,12 @@ French version :
 *Steam Library Exporter* est une application permettant d'extraire les informations des jeux possédés dans une bibliothèque Steam et de les exporter au format CSV. L'application est conçue avec une interface graphique en PyQt5, permettant une utilisation intuitive pour sélectionner et exporter les informations souhaitées.
 
 ## Sommaire
-- [Aperçu](#aperçu)
 - [Fonctionnalités](#fonctionnalités)
 - [Prérequis](#prérequis)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
-- [Comment ça marche ?](#comment-ça-marche)
-- [Exemples de champs exportables](#exemples-de-champs-exportables)
-- [Dépendances](#dépendances)
 - [Configuration](#configuration)
-- [Contributions](#contributions)
+- [Comment ça marche ?](#comment-ça-marche)
 - [Licence](#licence)
 
 ## Fonctionnalités
@@ -73,16 +71,6 @@ api_key = VOTRE_CLE_API
 steamid = VOTRE_STEAMID
 ```
 
-## Contribution
-
-Les contributions sont les bienvenues ! Suivez ces étapes pour contribuer :
-
-1. Forkez le projet.
-2. Créez une branche pour votre fonctionnalité (`git checkout -b nouvelle-fonctionnalite`).
-3. Effectuez vos modifications et validez-les (`git commit -m "Ajout d'une nouvelle fonctionnalité"`).
-4. Poussez votre branche (`git push origin nouvelle-fonctionnalite`).
-5. Ouvrez une Pull Request.
-
 ## Comment ça marche ?
 
 Entrez votre clé API 🔑 - Pour se connecter à Steam.
@@ -95,25 +83,38 @@ Cliquez sur Exporter ! 🚀 - Le programme génère un fichier CSV avec les info
 Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de détails.
 
 
-English version :
+## 🇬🇧 English Version
 
 # Steam Library Exporter
 
-*Steam Library Exporter* is an application designed to extract information about games owned in a Steam library and export them to a CSV file. The application features a PyQt5 graphical interface, providing an intuitive way to select and export the desired information.
+![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-v5.15.4-brightgreen)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
+
+*Steam Library Exporter* is an application that allows you to extract information about games owned in a Steam library and export it to CSV format. Designed with a PyQt5 graphical interface, this application provides an intuitive experience for selecting and exporting the desired information.
+
+## Table of Contents
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [How It Works](#how-it-works)
+- [License](#license)
 
 ## Features
 
-- **Extract information** from a user's Steam library.
+- **Extract game information** from a user's Steam library.
 - **Select fields to export** (game name, developers, platforms, etc.).
-- **Export data in CSV format** for easy use and sharing.
-- **Modern graphical interface** in PyQt5 for user-friendly experience.
-- **Secure API information storage**, including the Steam API key and SteamID, saved in a configuration file.
+- **Export selected data** to CSV format.
+- **Modern graphical interface** built with PyQt5 for ease of use.
+- **Secure storage of API information**, including the Steam API key and SteamID in a configuration file.
 
-## Prerequisites
+## Requirements
 
 - **Python 3.7** or higher
 - **Steam account** with a game library
-- **Steam API Key** – [Generate your Steam API Key here](https://steamcommunity.com/dev/apikey)
+- **Steam API Key** – [Generate your Steam API key here](https://steamcommunity.com/dev/apikey)
 
 ## Installation
 
@@ -122,7 +123,7 @@ English version :
    ```bash
    git clone https://github.com/yourusername/steam-library-exporter.git
    cd steam-library-exporter
-   ```
+
 
 2. Install dependencies:
 
@@ -152,16 +153,12 @@ Create a `config.ini` file in the main directory to save your Steam credentials:
 api_key = YOUR_API_KEY
 steamid = YOUR_STEAMID
 ```
+## How It Works
 
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. Fork the project.
-2. Create a branch for your feature (`git checkout -b new-feature`).
-3. Make your modifications and commit them (`git commit -m "Add new feature"`).
-4. Push your branch (`git push origin new-feature`).
-5. Open a Pull Request.
+Enter your API key 🔑 - Connect to Steam.
+Choose fields to export 📝 - Customize the information to retrieve.
+Select an output CSV file 📂 - Choose where to save the data.
+Click Export! 🚀 - The program generates a CSV file with your Steam library information.
 
 ## License
 
