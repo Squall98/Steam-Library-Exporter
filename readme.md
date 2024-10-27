@@ -2,7 +2,24 @@ French version :
 
 # Steam Library Exporter
 
+![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
+![PyQt5](https://img.shields.io/badge/PyQt5-v5.15.4-brightgreen)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
+
 *Steam Library Exporter* est une application permettant d'extraire les informations des jeux possédés dans une bibliothèque Steam et de les exporter au format CSV. L'application est conçue avec une interface graphique en PyQt5, permettant une utilisation intuitive pour sélectionner et exporter les informations souhaitées.
+
+## Sommaire
+- [Aperçu](#aperçu)
+- [Fonctionnalités](#fonctionnalités)
+- [Prérequis](#prérequis)
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Comment ça marche ?](#comment-ça-marche)
+- [Exemples de champs exportables](#exemples-de-champs-exportables)
+- [Dépendances](#dépendances)
+- [Configuration](#configuration)
+- [Contributions](#contributions)
+- [Licence](#licence)
 
 ## Fonctionnalités
 
@@ -65,6 +82,13 @@ Les contributions sont les bienvenues ! Suivez ces étapes pour contribuer :
 3. Effectuez vos modifications et validez-les (`git commit -m "Ajout d'une nouvelle fonctionnalité"`).
 4. Poussez votre branche (`git push origin nouvelle-fonctionnalite`).
 5. Ouvrez une Pull Request.
+
+## Comment ça marche ?
+
+Entrez votre clé API 🔑 - Pour se connecter à Steam.
+Choisissez les champs à exporter 📝 - Personnalisez les informations récupérées.
+Sélectionnez un fichier de sortie CSV 📂 - Choisissez où sauvegarder les données.
+Cliquez sur Exporter ! 🚀 - Le programme génère un fichier CSV avec les informations de votre bibliothèque Steam.
 
 ## Licence
 
