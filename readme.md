@@ -1,4 +1,5 @@
-[![](https://img.icons8.com/color/48/000000/france.png) French Version](#french-version) | [![](https://img.icons8.com/color/48/000000/great-britain.png) English Version](#english-version)
+[![FR](https://img.icons8.com/color/24/000000/france.png) French Version](#-french-version) | [![GB](https://img.icons8.com/color/24/000000/great-britain.png) English Version](#-english-version)
+
 
 
 ## ![FR](https://img.icons8.com/color/24/000000/france.png) French Version
