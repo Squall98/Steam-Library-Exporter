@@ -18,7 +18,7 @@
 - [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Configuration](#configuration)
-- [Comment ça marche ?](#comment-ça-marche)
+- [Comment ça marche ?](#comment-ca-marche-)
 - [Licence](#licence)
 
 ## Fonctionnalités
@@ -57,7 +57,7 @@
 1. **Lancez l'application** en exécutant :
 
    ```bash
-   python main.py
+   python v3.py
    ```
 
 2. **Interface utilisateur** : Une fois l'application ouverte, sélectionnez les informations à extraire pour chaque jeu.
@@ -140,7 +140,7 @@ Ce projet est sous licence MIT. Consultez le fichier `LICENSE` pour plus de dét
 1. **Run the application** by executing:
 
    ```bash
-   python main.py
+   python v.py
    ```
 
 2. **User Interface**: Once the application opens, select the information to extract for each game.
